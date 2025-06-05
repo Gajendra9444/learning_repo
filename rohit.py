@@ -1,3 +1,7 @@
 print("Rohit Joshi")
-for i<10:
- print("This is business")
+
+i = int(input("Enter the number to check what to do "))
+
+while(i < 10):
+    print("This is bussiness")
+    i += 1
